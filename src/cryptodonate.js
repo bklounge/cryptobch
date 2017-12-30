@@ -37,7 +37,7 @@
     window.Fr.CryptoDonate = function(config) {
         this.config = {
             coin: 'bitcoin',
-            address: '3Q2zmZA3LsW5JdxkJEPDRbsXu2YzzMQmBQ',
+            address: '1C5bs6rMqvkViCAguPuRwd49k9A7ZrJNJP',
 
             qr: true,
             getQRImage: function(data) {
