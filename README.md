@@ -1,2 +1,1 @@
-echo # cryptobch
-# cryptobch
+Easy, reusable crypto donation buttons.
